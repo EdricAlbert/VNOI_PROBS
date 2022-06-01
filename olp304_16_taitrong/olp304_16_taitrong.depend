@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653731845 source:c:\users\oopsc\documents\github\vnoi_probs\olp304_16_taitrong\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
